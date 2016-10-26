@@ -6,7 +6,18 @@
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+The program should return when a year is not a leap year.
+* _Input Example: 1993_
+* _Output Example: false_
+The program should return 'true' for years divisible by 4, since those are leap years.
+* _Input Example: 2004_
+* _Output Example: true_
+The program should return 'false' for years divisible by 100, since those are not leap years.
+* _Input Example: 1900_
+* _Output Example: false_
+The program should return 'true' for years divisible by 400, since those are leap years.
+* _Input Example: 2000_
+* _Output Example: true_
 
 ## Setup/Installation Requirements
 
